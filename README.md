@@ -11,11 +11,15 @@
 
 A comprehensive full-stack web application for uploading, analyzing, and visualizing Excel data with advanced chart generation capabilities including both 2D and 3D visualizations.
 
-## Project Preview Video
+## 🎬 Project Demo
 
-[![Thumbnail](https://github.com/user-attachments/assets/de065d9f-bcfd-4e6d-83f3-2867c2f14fc6)](https://github.com/user-attachments/assets/0df43549-1b8e-4618-8f91-13def8fe206e)
+Explore **DataLens** through the project demonstration below.
 
+[![DataLens Project Demo](https://github.com/user-attachments/assets/de065d9f-bcfd-4e6d-83f3-2867c2f14fc6)](https://github.com/user-attachments/assets/366daf88-e1d3-42f0-838a-5061cd1d1a85)
 
+> **Note:** The embedded video preview may have reduced quality. For the best viewing experience, watch the full-quality demonstration on Google Drive.
+
+[![Watch Full Demo](https://img.shields.io/badge/Watch_Full_Demo-Google_Drive-28A745?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/11S0nLsGZJwgDwgj0imPWWG7vRIPuy2ER/view?usp=sharing)
 
 ## 🌟 Features
 
