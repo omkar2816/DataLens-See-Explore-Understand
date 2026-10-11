@@ -13,7 +13,7 @@ A comprehensive full-stack web application for uploading, analyzing, and visuali
 
 ## Project Preview Video
 
-[![Thumbnail](https://github.com/user-attachments/assets/de065d9f-bcfd-4e6d-83f3-2867c2f14fc6)](https://youtu.be/oj3CQgLs83A)
+[![Thumbnail](THUMBNAIL_URL)](https://youtu.be/oj3CQgLs83A)
 
 ## 🌟 Features
 
