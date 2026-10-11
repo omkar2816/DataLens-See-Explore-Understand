@@ -13,7 +13,9 @@ A comprehensive full-stack web application for uploading, analyzing, and visuali
 
 ## Project Preview Video
 
-[![DataLens Project Demo](https://img.youtube.com/vi/R9mkwGWLwLU/hqdefault.jpg)](https://youtu.be/R9mkwGWLwLU)
+[![Thumbnail](https://github.com/user-attachments/assets/de065d9f-bcfd-4e6d-83f3-2867c2f14fc6)](https://github.com/user-attachments/assets/0df43549-1b8e-4618-8f91-13def8fe206e)
+
+
 
 ## 🌟 Features
 
