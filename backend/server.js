@@ -67,7 +67,7 @@ app.use('/api/review-popup', reviewPopupRoutes);
 
 // Health check endpoint
 app.get('/api/health', (req, res) => {
-  res.json({ status: 'OK', message: 'Excel Analytics API is running' });
+  res.json({ status: 'OK', message: 'DataLens API is running' });
 });
 
 // Error handling middleware

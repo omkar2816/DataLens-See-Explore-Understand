@@ -439,7 +439,7 @@ class NotificationService {
       // User-specific notification templates
       welcome_user: {
         type: 'welcome_user',
-        title: 'Welcome to Excel Analytics!',
+        title: 'Welcome to DataLens!',
         message: `Welcome ${data.userName}! Start by uploading your first Excel file to begin data analysis.`,
         actionUrl: '/analytics',
         priority: 'medium',

@@ -23,7 +23,7 @@ const HelpCenter = () => {
   const [chatMessages, setChatMessages] = useState([
     {
       type: 'bot',
-      message: "Hi! I'm your Excel Analytics Assistant. How can I help you today?",
+      message: "Hi! I'm your DataLens Assistant. How can I help you today?",
       timestamp: new Date()
     }
   ]);
@@ -80,7 +80,7 @@ const HelpCenter = () => {
   const quickActions = [
     { icon: BookOpen, title: "View Documentation", action: () => navigate('/support/documentation') },
     { icon: MessageCircle, title: "Contact Support", action: () => scrollToChat() },
-    { icon: Bug, title: "Report Issue", action: () => window.open('mailto:support@excelanalytics.com?subject=Issue Report&body=Please describe the issue you encountered:', '_blank') }
+    { icon: Bug, title: "Report Issue", action: () => window.open('mailto:support@datalens.com?subject=Issue Report&body=Please describe the issue you encountered:', '_blank') }
   ];
 
   const scrollToChat = () => {

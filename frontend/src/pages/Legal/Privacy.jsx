@@ -107,7 +107,7 @@ const Privacy = () => {
               Overview
             </h2>
             <p className="text-gray-600 dark:text-gray-300 leading-relaxed">
-              This Privacy Policy describes how Excel Analytics Platform ("we," "our," or "us") collects, 
+              This Privacy Policy describes how DataLens: See, Explore & Understand ("we," "our," or "us") collects, 
               uses, and protects your information when you use our data analytics services. We are committed 
               to transparency and protecting your privacy in accordance with applicable data protection laws.
             </p>
@@ -152,7 +152,7 @@ const Privacy = () => {
             </p>
             <div className="bg-gray-50 dark:bg-gray-700 rounded-lg p-4">
               <p className="text-gray-700 dark:text-gray-300">
-                <strong>Email:</strong> privacy@excelanalytics.com<br />
+                <strong>Email:</strong> privacy@datalens.com<br />
                 <strong>Subject:</strong> Privacy Policy Inquiry
               </p>
             </div>

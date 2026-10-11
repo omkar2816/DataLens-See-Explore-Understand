@@ -44,7 +44,7 @@ const Register = () => {
     if (isAuthenticated) {
       const from = location.state?.from?.pathname || '/dashboard';
       navigate(from, { replace: true });
-      toast.success('Registration successful! Welcome to Excel Analytics.', { position: 'bottom-center' });
+      toast.success('Registration successful! Welcome to DataLens.', { position: 'bottom-center' });
     }
   }, [isAuthenticated, navigate, location]);
 
@@ -88,7 +88,7 @@ const Register = () => {
             Create Account
           </h2>
           <p className="mt-2 text-sm text-gray-600 dark:text-gray-400">
-            Join Excel Analytics and start analyzing your data
+            Join DataLens and start analyzing your data
           </p>
         </div>
 
@@ -281,7 +281,7 @@ const Register = () => {
 
         <div className="text-center">
           <p className="text-xs text-gray-500 dark:text-gray-400">
-            © 2024 Excel Analytics Platform. All rights reserved.
+            © 2025 DataLens: See, Explore & Understand. All rights reserved.
           </p>
         </div>
       </div>

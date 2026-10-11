@@ -10,7 +10,7 @@ const Terms = () => {
       icon: Users,
       title: "Acceptance of Terms",
       content: [
-        "By accessing and using Excel Analytics Platform, you agree to be bound by these Terms of Service",
+        "By accessing and using DataLens: See, Explore & Understand, you agree to be bound by these Terms of Service",
         "If you do not agree to these terms, please discontinue use of our services",
         "We reserve the right to modify these terms at any time with notice",
         "Continued use after changes constitutes acceptance of new terms"
@@ -115,7 +115,7 @@ const Terms = () => {
               Agreement Overview
             </h2>
             <p className="text-gray-600 dark:text-gray-300 leading-relaxed">
-              These Terms of Service ("Terms") govern your use of the Excel Analytics Platform 
+              These Terms of Service ("Terms") govern your use of the DataLens: See, Explore & Understand 
               service operated by our team. Please read these terms carefully before using our platform. 
               By using our service, you agree to be bound by these terms and our Privacy Policy.
             </p>
@@ -198,7 +198,7 @@ const Terms = () => {
             </p>
             <div className="bg-gray-50 dark:bg-gray-700 rounded-lg p-4">
               <p className="text-gray-700 dark:text-gray-300">
-                <strong>Email:</strong> legal@excelanalytics.com<br />
+                <strong>Email:</strong> legal@datalens.com<br />
                 <strong>Subject:</strong> Terms of Service Inquiry
               </p>
             </div>

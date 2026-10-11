@@ -16,7 +16,7 @@ const FloatingAIAssistant = () => {
   const [messages, setMessages] = useState([
     {
       type: 'bot',
-      message: "Hi! I'm your Excel Analytics Assistant. How can I help you today?",
+      message: "Hi! I'm your DataLens Assistant. How can I help you today?",
       timestamp: new Date()
     }
   ]);

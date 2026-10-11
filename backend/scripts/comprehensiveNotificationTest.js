@@ -36,7 +36,7 @@ const runComprehensiveNotificationTest = async () => {
       method: 'POST',
       headers: { 'Content-Type': 'application/json' },
       body: JSON.stringify({
-        email: 'superadmin@excel-analytics.local',
+        email: 'superadmin@datalens.local',
         password: 'SuperAdmin123!'
       })
     });
@@ -130,7 +130,7 @@ const runComprehensiveNotificationTest = async () => {
     console.log('\n🎯 HOW TO TEST MANUALLY:');
     console.log('1. Visit: http://localhost:5175/');
     console.log('2. Register with "Admin" role selected');
-    console.log('3. Login as superadmin (superadmin@excel-analytics.local / SuperAdmin123!)');
+    console.log('3. Login as superadmin (superadmin@datalens.local / SuperAdmin123!)');
     console.log('4. Check notification bell for new admin request');
     console.log('5. Click notification to navigate to admin requests page');
 

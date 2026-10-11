@@ -58,8 +58,8 @@ const Footer = () => {
   };
 
   const socialLinks = [
-    { icon: Mail, href: 'mailto:support@excelanalytics.com', label: 'Email' },
-    { icon: Github, href: 'https://github.com/excelanalytics', label: 'GitHub' }
+    { icon: Mail, href: 'mailto:support@datalens.com', label: 'Email' },
+    { icon: Github, href: 'https://github.com/datalens', label: 'GitHub' }
   ];
 
   // Handle contact form submission
@@ -74,7 +74,7 @@ const Footer = () => {
         from_name: formData.name,
         from_email: formData.email,
         message: formData.message,
-        to_name: 'Excel Analytics Team'
+        to_name: 'DataLens Team'
       };
 
       await emailjs.send(
@@ -123,7 +123,7 @@ const Footer = () => {
             >
               <div className="flex items-center space-x-2 mb-4">
                 <BarChart3 className="h-8 w-8 text-emerald-400" />
-                <span className="text-2xl font-bold">Excel Analytics</span>
+                <span className="text-2xl font-bold">DataLens</span>
               </div>
               
               <p className="text-gray-300 mb-8 max-w-md">
@@ -287,7 +287,7 @@ const Footer = () => {
               transition={{ duration: 0.6 }}
               className="text-gray-400 text-sm mb-4 md:mb-0"
             >
-              © 2025 Excel Analytics Platform. All rights reserved.
+              © 2025 DataLens: See, Explore & Understand. All rights reserved.
             </motion.div>
 
             {/* Social Links */}

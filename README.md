@@ -1,4 +1,4 @@
-# 📊 Excel Analytics Platform
+# 📊 DataLens: See, Explore & Understand
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![React](https://img.shields.io/badge/React-18.2.0-blue.svg)](https://reactjs.org/)
@@ -160,7 +160,7 @@ Before you begin, ensure you have the following installed:
 6. **Access the Application**
    - Frontend: http://localhost:5173
    - Backend API: http://localhost:5000
-   - Default Super Admin: admin@excel-analytics.local / Admin@123
+   - Default Super Admin: admin@datalens.local / Admin@123
 
 ## ⚙️ Environment Variables
 
@@ -178,7 +178,7 @@ MONGODB_URI=mongodb://127.0.0.1:27017/excelAnalytics
 JWT_SECRET=your-super-secret-jwt-key-change-this-in-production
 
 # Default Admin Configuration
-ADMIN_EMAIL=admin@excel-analytics.local
+ADMIN_EMAIL=admin@datalens.local
 ADMIN_PASSWORD=Admin@123
 ADMIN_FIRST_NAME=Admin
 ADMIN_LAST_NAME=User
@@ -200,7 +200,7 @@ SMTP_SECURE=false
 | `NODE_ENV` | Environment mode | development | No |
 | `MONGODB_URI` | MongoDB connection string | mongodb://127.0.0.1:27017/excelAnalytics | Yes |
 | `JWT_SECRET` | Secret key for JWT tokens | - | Yes |
-| `ADMIN_EMAIL` | Default admin email | admin@excel-analytics.local | No |
+| `ADMIN_EMAIL` | Default admin email | admin@datalens.local | No |
 | `ADMIN_PASSWORD` | Default admin password | Admin@123 | No |
 | `ADMIN_FIRST_NAME` | Default admin first name | Admin | No |
 | `ADMIN_LAST_NAME` | Default admin last name | User | No |

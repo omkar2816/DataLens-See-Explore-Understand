@@ -184,7 +184,7 @@ const AuthModal = ({ isOpen, onClose, initialMode = 'login', initialAdminMode = 
               <div>
                 <p className="text-emerald-700 dark:text-emerald-300 text-sm">
                   <strong>Super Admin Credentials:</strong><br />
-                  Email: superadmin@excel-analytics.local<br />
+                  Email: superadmin@datalens.local<br />
                   Password: SuperAdmin123!
                 </p>
               </div>
@@ -194,7 +194,7 @@ const AuthModal = ({ isOpen, onClose, initialMode = 'login', initialAdminMode = 
                 type="button"
                 onClick={() => {
                   reset({
-                    email: 'superadmin@excel-analytics.local',
+                    email: 'superadmin@datalens.local',
                     password: 'SuperAdmin123!'
                   });
                 }}

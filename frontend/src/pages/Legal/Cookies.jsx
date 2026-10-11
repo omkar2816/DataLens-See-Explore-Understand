@@ -264,7 +264,7 @@ const Cookies = () => {
             </p>
             <div className="bg-gray-50 dark:bg-gray-700 rounded-lg p-4">
               <p className="text-gray-700 dark:text-gray-300">
-                <strong>Email:</strong> cookies@excelanalytics.com<br />
+                <strong>Email:</strong> cookies@datalens.com<br />
                 <strong>Subject:</strong> Cookie Policy Inquiry
               </p>
             </div>

@@ -158,10 +158,10 @@ const Documentation = () => {
     }
   ];
 
-  const codeExample = `// Initialize Excel Analytics SDK
-import ExcelAnalytics from '@excel-analytics/sdk';
+  const codeExample = `// Initialize DataLens SDK
+import DataLens from '@datalens/sdk';
 
-const analytics = new ExcelAnalytics({
+const analytics = new DataLens({
   apiKey: 'your-api-key',
   environment: 'production'
 });
@@ -188,7 +188,7 @@ async function analyzeFile(file) {
     {
       step: 1,
       title: "Create Account",
-      description: "Sign up for a free Excel Analytics account"
+      description: "Sign up for a free DataLens account"
     },
     {
       step: 2,
@@ -341,7 +341,7 @@ async function analyzeFile(file) {
                     Quick Start Guide
                   </h2>
                   <p className="text-gray-600 dark:text-gray-300 mb-8">
-                    Get started with Excel Analytics in just 4 simple steps:
+                    Get started with DataLens in just 4 simple steps:
                   </p>
                   
                   <div className="grid md:grid-cols-2 gap-6">

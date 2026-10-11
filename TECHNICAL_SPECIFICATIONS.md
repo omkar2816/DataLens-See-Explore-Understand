@@ -196,7 +196,7 @@ EMAIL_HOST=smtp.gmail.com
 EMAIL_PORT=587
 EMAIL_USER=your-email@gmail.com
 EMAIL_PASS=your-app-password
-EMAIL_FROM=Excel Analytics Platform <noreply@yourplatform.com>
+EMAIL_FROM=DataLens: See, Explore & Understand <noreply@yourplatform.com>
 
 # File Upload
 UPLOAD_DIR=./uploads
@@ -252,7 +252,7 @@ METRICS_PORT=9090
 ```bash
 # Frontend Development (.env)
 VITE_API_URL=http://localhost:5000/api
-VITE_APP_NAME=Excel Analytics Platform
+VITE_APP_NAME=DataLens: See, Explore & Understand
 VITE_APP_VERSION=1.0.0
 VITE_MAX_FILE_SIZE=52428800
 VITE_SUPPORTED_FORMATS=.xlsx,.xls,.csv
@@ -261,7 +261,7 @@ VITE_ENABLE_ANALYTICS=true
 
 # Frontend Production (.env.production)
 VITE_API_URL=https://api.yourplatform.com/api
-VITE_APP_NAME=Excel Analytics Platform
+VITE_APP_NAME=DataLens: See, Explore & Understand
 VITE_APP_VERSION=1.0.0
 VITE_ENABLE_PWA=true
 VITE_ENABLE_OFFLINE_MODE=true
@@ -921,8 +921,8 @@ const performanceMonitor = (req, res, next) => {
 };
 ```
 
-This technical specification provides comprehensive guidance for deploying and maintaining the Excel Analytics Platform in production environments, ensuring security, performance, and reliability.
+This technical specification provides comprehensive guidance for deploying and maintaining DataLens: See, Explore & Understand in production environments, ensuring security, performance, and reliability.
 
 ---
 
-*Last updated: October 2, 2025 - Excel Analytics Platform Technical Specifications v1.0*
+*Last updated: October 2, 2025 - DataLens: See, Explore & Understand Technical Specifications v1.0*

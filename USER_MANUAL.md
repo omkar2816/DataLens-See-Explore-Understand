@@ -1,8 +1,8 @@
-# 📚 Excel Analytics Platform - User Manual
+# 📚 DataLens: See, Explore & Understand - User Manual
 
-## Welcome to Excel Analytics Platform
+## Welcome to DataLens: See, Explore & Understand
 
-This comprehensive user manual will guide you through every feature of the Excel Analytics Platform, from basic file uploads to advanced 3D visualizations. Whether you're a data analyst, business professional, or administrator, this guide will help you maximize the platform's capabilities.
+This comprehensive user manual will guide you through every feature of DataLens: See, Explore & Understand, from basic file uploads to advanced 3D visualizations. Whether you're a data analyst, business professional, or administrator, this guide will help you maximize the platform's capabilities.
 
 ---
 
@@ -26,7 +26,7 @@ This comprehensive user manual will guide you through every feature of the Excel
 ### Account Creation
 
 #### Step 1: Registration
-1. **Visit the Platform**: Navigate to the Excel Analytics Platform homepage
+1. **Visit the Platform**: Navigate to the DataLens homepage
 2. **Click "Get Started"**: Find the registration button on the landing page
 3. **Fill Registration Form**:
    - **Email Address**: Enter a valid email address
@@ -892,7 +892,7 @@ The platform uses machine learning to identify:
 
 ## Conclusion
 
-The Excel Analytics Platform is designed to transform your data analysis experience, from simple file uploads to sophisticated 3D visualizations. This user manual provides comprehensive guidance for users at all levels, from beginners taking their first steps to power users leveraging advanced features.
+DataLens: See, Explore & Understand is designed to transform your data analysis experience, from simple file uploads to sophisticated 3D visualizations. This user manual provides comprehensive guidance for users at all levels, from beginners taking their first steps to power users leveraging advanced features.
 
 ### Key Takeaways
 - **Start Simple**: Begin with basic file uploads and simple charts
@@ -914,8 +914,8 @@ The platform continuously evolves with new features and improvements. Stay engag
 - **Best Practice Guides**: Learn from expert users and case studies
 - **Beta Programs**: Early access to cutting-edge features
 
-Welcome to your data visualization journey with Excel Analytics Platform!
+Welcome to your data visualization journey with DataLens!
 
 ---
 
-*Last updated: $(date) - Excel Analytics Platform User Manual v1.0*
+*Last updated: $(date) - DataLens: See, Explore & Understand User Manual v1.0*

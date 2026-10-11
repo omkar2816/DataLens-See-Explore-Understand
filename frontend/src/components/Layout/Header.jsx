@@ -358,9 +358,9 @@ const Header = () => {
               </div>
               <div className="hidden lg:block">
                 <h1 className="text-lg font-bold bg-gradient-to-r from-gray-900 via-emerald-800 to-teal-800 dark:from-white dark:via-emerald-200 dark:to-teal-200 bg-clip-text text-transparent">
-                  Excel Analytics
+                  DataLens
                 </h1>
-                <p className="text-xs text-gray-500 dark:text-gray-400 -mt-1">Professional Dashboard</p>
+                <p className="text-xs text-gray-500 dark:text-gray-400 -mt-1">See, Explore &amp; Understand</p>
               </div>
             </div>
           </div>

@@ -84,7 +84,7 @@ const Landing = () => {
             <div className="flex items-center space-x-2">
               <BarChart3 className="h-8 w-8 text-emerald-600" />
               <span className="text-xl font-bold text-gray-900 dark:text-white">
-                Excel Analytics
+                DataLens
               </span>
             </div>
             

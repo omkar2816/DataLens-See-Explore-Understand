@@ -390,7 +390,7 @@ router.post('/forgot-password', async (req, res) => {
     // Send OTP via email (with Ethereal fallback in dev)
     const { info, previewUrl } = await sendMail({
       to: user.email,
-      subject: 'Your Excel Analytics password reset OTP',
+      subject: 'Your DataLens password reset OTP',
       text: `Your OTP is ${otpCode}. It expires in 10 minutes.`,
       html: `<p>Your OTP is <strong>${otpCode}</strong>.</p><p>It expires in 10 minutes.</p>`,
     });

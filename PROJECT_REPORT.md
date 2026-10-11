@@ -1,4 +1,4 @@
-# 📊 Excel Analytics Platform - Comprehensive Project Report
+# 📊 DataLens: See, Explore & Understand - Comprehensive Project Report
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![React](https://img.shields.io/badge/React-18.2.0-blue.svg)](https://reactjs.org/)
@@ -11,12 +11,12 @@
 
 ## 🎯 Executive Summary
 
-**Project Name:** Zidio Excel Analytics Platform  
+**Project Name:** DataLens: See, Explore & Understand  
 **Report Date:** October 2, 2025  
 **Technology Stack:** Full-Stack MERN Application  
 **Primary Purpose:** Data analytics and visualization platform with advanced chart generation capabilities
 
-This report provides a comprehensive analysis of the Excel Analytics Platform, a sophisticated full-stack web application designed for data processing, visualization, and management with advanced 3D chart capabilities, role-based authentication, and comprehensive admin functionality.
+This report provides a comprehensive analysis of DataLens: See, Explore & Understand, a sophisticated full-stack web application designed for data processing, visualization, and management with advanced 3D chart capabilities, role-based authentication, and comprehensive admin functionality.
 
 ---
 
@@ -41,7 +41,7 @@ This report provides a comprehensive analysis of the Excel Analytics Platform, a
 
 ### 🎯 Purpose- **React 18.2.0** - Modern React with hooks and functional components
 
-The Excel Analytics Platform is a comprehensive full-stack web application designed to revolutionize how users interact with Excel data. It provides advanced data analysis, visualization, and chart generation capabilities with support for both 2D and interactive 3D visualizations.- **Vite** - Fast build tool and development server
+DataLens: See, Explore & Understand is a comprehensive full-stack web application designed to revolutionize how users interact with Excel data. It provides advanced data analysis, visualization, and chart generation capabilities with support for both 2D and interactive 3D visualizations.- **Vite** - Fast build tool and development server
 
 - **Tailwind CSS** - Utility-first CSS framework for responsive design
 
@@ -1805,7 +1805,7 @@ RATE_LIMIT_MAX=100
 
 VITE_API_URL=http://localhost:5000/apinpm install
 
-VITE_APP_NAME=Excel Analytics Platformnpm run dev
+VITE_APP_NAME=DataLens: See, Explore & Understand
 
 VITE_MAX_FILE_SIZE=50000000```
 
@@ -2001,7 +2001,8 @@ docker-compose up -d   - Offline functionality
 
 #### Health Checks
 
-```javascriptThe Excel Analytics Platform represents a comprehensive, modern approach to data visualization and analytics. With its robust architecture, advanced features, and scalable design, it provides users with powerful tools for data analysis while maintaining security, performance, and usability standards.
+```javascript
+DataLens: See, Explore & Understand represents a comprehensive, modern approach to data visualization and analytics. With its robust architecture, advanced features, and scalable design, it provides users with powerful tools for data analysis while maintaining security, performance, and usability standards.
 
 // Backend health check endpoint
 
@@ -2265,7 +2266,7 @@ class ErrorBoundary extends React.Component {
 
 ## Conclusion
 
-The Excel Analytics Platform represents a comprehensive solution for modern data analysis and visualization needs. With its robust architecture, advanced security features, and user-friendly interface, it provides organizations with the tools necessary to transform raw data into actionable insights.
+DataLens: See, Explore & Understand represents a comprehensive solution for modern data analysis and visualization needs. With its robust architecture, advanced security features, and user-friendly interface, it provides organizations with the tools necessary to transform raw data into actionable insights.
 
 ### Key Achievements
 - ✅ Modern, responsive design with emerald theme optimized for analytics
@@ -2316,7 +2317,7 @@ This comprehensive platform was developed with:
 
 ---
 
-*Generated on October 2, 2025 - Excel Analytics Platform v1.0.0*
+*Generated on October 2, 2025 - DataLens: See, Explore & Understand v1.0.0*
 
 **Project Repository**: [Zidio-Dev-Project-1](https://github.com/omkar2816/Zidio-Dev-Project-1)
 

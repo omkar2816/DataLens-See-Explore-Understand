@@ -120,7 +120,7 @@ const Sidebar = () => {
                   <BarChart3 className="w-5 h-5 text-white" />
                 </div>
                 <span className="text-xl font-bold bg-gradient-to-r from-emerald-600 to-teal-600 bg-clip-text text-transparent">
-                  Excel Analytics
+                  DataLens
                 </span>
               </div>
             )}
@@ -205,7 +205,7 @@ const Sidebar = () => {
             {!sidebarCollapsed && (
               <div className="text-xs text-gray-500 dark:text-gray-400 text-center">
                 <div className="font-medium bg-gradient-to-r from-emerald-600 to-teal-600 bg-clip-text text-transparent">
-                  Excel Analytics Platform
+                  DataLens: See, Explore & Understand
                 </div>
                 <div className="text-gray-400 dark:text-gray-500 mt-1">
                   v1.0.0

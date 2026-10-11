@@ -49,7 +49,7 @@ export async function sendMail(options) {
   const transporter = await getTransporter();
 
   const info = await transporter.sendMail({
-    from: options.from || process.env.EMAIL_FROM || 'no-reply@excel-analytics.local',
+    from: options.from || process.env.EMAIL_FROM || 'no-reply@datalens.local',
     to: options.to,
     subject: options.subject,
     text: options.text,
